@@ -15,7 +15,8 @@ This project uses the [Telecom Customer Churn Dataset](https://www.kaggle.com/da
 ## Project Workflow
 This project follows a structured, end-to-end data analytics workflow to identify and mitigate customer churn at INTELEVO Networks. The process integrates data engineering, predictive analytics, and business intelligence to generate actionable insights.
 
-![Project Workflow](image-2.png)
+![image-2](https://github.com/user-attachments/assets/b0db173c-c112-4194-a10d-4c4172ebe02d)
+
 
 - SQL Server – Loaded, cleaned, performed exploratory data analysis and modeled raw telecom data to create an analytics-ready dataset.
 - Python – Built a Random Forest model to predict customer churn and identify key churn drivers.
