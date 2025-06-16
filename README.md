@@ -35,7 +35,7 @@ This project follows a structured, end-to-end data analytics workflow to identif
 telecom-churn-analysis/
 │
 ├── 📁 data/                             # Cleaned and processed datasets used in modeling and visualization
-│   ├── Final_Customer_Data_Canadian_Cities.csv   # Final dataset exported from SQL
+│   ├── Final_Customer_Data_Canadian_Cities.csv   # Dataset Extracted from kaggle and modified for SQL
 │   ├── Predicted_Churners.csv                     # Churn predictions from Python model
 │   └── Production_Data.xlsx                       # Enhanced dataset for Power BI (SQL + Python merged)
 │
