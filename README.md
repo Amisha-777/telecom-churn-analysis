@@ -25,7 +25,7 @@ This project follows a structured, end-to-end data analytics workflow to identif
 
 ## 🛠 Tools & Technologies
 - **SQL Server Management Studio (SSMS)** – ETL, Exploratory Data Analysis
-- **Python (Scikit-learn)** – Predictive modeling using Random Forest
+- **Jupyter Notebook – Predictive modeling using Random Forest
 - **Power BI** – Data storytelling through dashboards
 - **Excel** – Preliminary data exploration
 
