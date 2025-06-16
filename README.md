@@ -37,7 +37,7 @@ telecom-churn-analysis/
 ├── 📁 data/                             # Cleaned and processed datasets used in modeling and visualization
 │   ├── Final_Customer_Data_Canadian_Cities.csv   # Dataset Extracted from kaggle and modified for SQL
 │   ├── Predicted_Churners.csv                     # Churn predictions from Python model
-│   └── Production_Data.xlsx                       # Enhanced dataset for Power BI (SQL + Python merged)
+│   └── Production_Data.xlsx                       # Enhanced dataset for prediction generated from SQL view
 │
 ├── 📁 sql/                              # SQL scripts for data extraction, transformation, and EDA
 │   └── Exploratory Data Analysis.sql              # SQL queries for loading, cleaning, and modeling data
