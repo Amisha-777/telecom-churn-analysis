@@ -3,6 +3,7 @@
 This documentation is created to help users **understand the logic and flow of the `Exploratory Data Analysis.sql` queries**, which prepares telecom churn data for modeling and dashboarding. It outlines the **SQL Server** workflow for data loading, exploration, cleaning, feature engineering, and view creation.
 
 ### 📁 Script: `Exploratory Data Analysis.sql`
+---
 
 ### Key Steps
 
