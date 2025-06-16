@@ -1,10 +1,10 @@
-# 🧮 SQL EDA & Data Transformation – Churn Analysis
+# SQL EDA & Data Transformation – Churn Analysis
 
 This documentation is created to help users **understand the logic and flow of the `Exploratory Data Analysis.sql` queries**, which prepares telecom churn data for modeling and dashboarding. It outlines the **SQL Server** workflow for data loading, exploration, cleaning, feature engineering, and view creation.
 
 ### 📁 Script: `Exploratory Data Analysis.sql`
 
-### 🔍 Key Steps
+### Key Steps
 
 #### 1️⃣ Data Loading
 - Created a database: `db_Churn`
@@ -36,7 +36,6 @@ This documentation is created to help users **understand the logic and flow of t
 ![Screenshot 2025-06-16 125438](https://github.com/user-attachments/assets/e068b03b-6ab7-4556-98fb-4d2f44553135)
 
 ### Output Table
-
 The cleaned dataset (`prod_Churn`) was used in both:
 - **Churn prediction modeling in Python**
 - **Dashboard visualization in Power BI**
