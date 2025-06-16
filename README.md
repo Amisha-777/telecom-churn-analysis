@@ -61,8 +61,9 @@ telecom-churn-analysis/
 - **Top churn reasons**: Competition (761 cases), Attitude, Price sensitivity, and Dissatisfaction
 - The city of **Kelowna** had the **highest churn rate at 57.19%**
 - **Deal 5** has the highest churn rate of **53.79%** generating least revenue.
+  
+![image-4](https://github.com/user-attachments/assets/2b9e5a57-b3b9-47d0-bcb9-54304f1f5cf5)
 
-![Page 1: Overview](image-4.png)
 
 ### 📄 Page 2: Demographics & Services
 - Churn was higher among **male customers** (64% of churned base).
@@ -71,7 +72,7 @@ telecom-churn-analysis/
 - **Fiber Optic** users churned the most among internet types (**41.10%**)
 - Those paying by **Mailed Check** showed a churn rate of **37.82%**
 
-![Page 2: Demographics & Services](<Screenshot 2025-06-16 113011.png>)
+![Screenshot 2025-06-16 113011](https://github.com/user-attachments/assets/75fd97b8-a0c7-4b84-98d0-29ee9fb09a5b)
 
 ### 📄 Page 3: Churn Predictions
 - The **Random Forest model** predicted **385 customers at high risk of churn**
@@ -79,7 +80,8 @@ telecom-churn-analysis/
 - Cities with the highest concentration of predicted churners: **Mississauga**, **Toronto**, and **Calgary**
 - At-risk profiles are mainly **aged 35–50**.
 
-![Page 3: Churn Predictions](image-3.png)
+![image-3](https://github.com/user-attachments/assets/c842a4e6-609b-4600-b555-b4be1283fc6b)
+
 
 ## Dashboard Usage
 
