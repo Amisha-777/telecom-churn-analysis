@@ -1,6 +1,6 @@
 # 📊 Telecom Customer Churn Analysis 
 
-### [Customer Churn Dashboard: Link](https://app.powerbi.com/view?r=eyJrIjoiODJhYjA3MDEtY2JjZi00OGQ5LWI5Y2YtNmI1Zjg0ZTdhMWE2IiwidCI6ImI2NDE3Y2QwLTFmNzMtNDQ3MS05YTM5LTIwOTUzODIyYTM0YSIsImMiOjN9)
+### [Customer Churn Dashboard: Link](https://app.powerbi.com/view?r=eyJrIjoiODJhYjA3MDEtY2JjZi00OGQ5LWI5Y2YtNmI1Zjg0ZTdhMWE2IiwidCI6ImI2NDE3Y2QwLTFmNzMtNDQ3MS05YTM5LTIwOTUzODIyYTM0YSIsImMiOjN9) 
 
 ## Project Overview
 Churn analysis helps businesses **understand why customers leave** and **identify patterns behind customer attrition**. In the telecom industry, customer churn is a critical challenge that impacts both **revenue** and **growth stability**. This project analyzes customer churn for a fictional telecom company, **INTELEVO Networks**, using a data-driven approach. It spans across SQL-based EDA and transformations, churn prediction using Random Forest in Python, and Power BI dashboards for business insights.
