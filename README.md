@@ -75,7 +75,7 @@ telecom-churn-analysis/
 ![Screenshot 2025-06-16 113011](https://github.com/user-attachments/assets/75fd97b8-a0c7-4b84-98d0-29ee9fb09a5b)
 
 ### 📄 Page 3: Churn Predictions
-- The **Random Forest model** predicted **385 customers at high risk of churn**
+- The **Random Forest model** achieving 84% accuracy predicted **385 customers at high risk of churn**
 - Most at-risk customers use **month-to-month contracts** (358 out of 385)
 - Cities with the highest concentration of predicted churners: **Mississauga**, **Toronto**, and **Calgary**
 - At-risk profiles are mainly **aged 35–50**.
